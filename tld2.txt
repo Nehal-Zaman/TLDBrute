@@ -1,0 +1,10 @@
+.com
+.in
+.org
+.co.uk
+.io
+.gov
+.in
+.mil
+.me
+.xyz
